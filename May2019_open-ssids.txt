@@ -51,7 +51,7 @@ MSFTOPEN
 Macdonald Manchester WiFi
 MaundGuest
 McDonalds
-NGMResorts-WiFi
+MGMResorts-WiFi
 Olive Garden Guest
 O2 Wifi
 Philz Coffee
